@@ -1,4 +1,5 @@
-🏥 Projeto Consultório Médico;
+🏥 Projeto Consultório Médico
+
 Sistema web desenvolvido com HTML, CSS e JavaScript para gerenciamento de pacientes e atendimentos em um consultório médico. Conta com telas para cadastro, histórico, registro de atendimentos e informações do consultório, com integração a um banco de dados.
 
 🔧 Funcionalidades
